@@ -1,0 +1,15 @@
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\bin\Debug\net6.0\Classes_Exercise_One.exe
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\bin\Debug\net6.0\Classes_Exercise_One.deps.json
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\bin\Debug\net6.0\Classes_Exercise_One.runtimeconfig.json
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\bin\Debug\net6.0\Classes_Exercise_One.dll
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\bin\Debug\net6.0\Classes_Exercise_One.pdb
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\Classes_Exercise_One.csproj.AssemblyReference.cache
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\Classes_Exercise_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\Classes_Exercise_One.AssemblyInfoInputs.cache
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\Classes_Exercise_One.AssemblyInfo.cs
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\Classes_Exercise_One.csproj.CoreCompileInputs.cache
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\Classes_Exercise_One.dll
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\refint\Classes_Exercise_One.dll
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\Classes_Exercise_One.pdb
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\Classes_Exercise_One.genruntimeconfig.cache
+C:\Users\amryo\Repos\Classes\Classes_Exercise_One\Classes_Exercise_One\obj\Debug\net6.0\ref\Classes_Exercise_One.dll
